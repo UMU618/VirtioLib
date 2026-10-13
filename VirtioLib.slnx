@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="virtio_lib/VirtioLib.vcxproj" Id="ae0fae5a-17c7-3f12-2067-980bc7c91ef4">
+    <Deploy />
+  </Project>
+  <Project Path="virtio_lib_wdf/VirtioLibWdf.vcxproj" Id="420c5c91-8d68-b18b-1cff-eb676bc512a7">
+    <Deploy />
+  </Project>
+</Solution>
